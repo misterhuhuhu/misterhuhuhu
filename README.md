@@ -3,7 +3,6 @@
 
 - 🔭 我目前在江西南昌作为全栈工程师
 - 🌱 目前正在学习langchain,chatGLM 
-
 - 📫 联系我: PR此profile 
 
 
@@ -26,6 +25,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
+![centos](https://img.shields.io/badge/-centos-222222?style=flat&logo=centos&logoColor=#262577)
 
 ### 语言框架 
 ![Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
@@ -49,3 +49,7 @@
 
 ![apachekafka](https://img.shields.io/badge/-Apache%20Kafka-222222?style=flat&logo=apachekafka&logoColor=#231F20)
 ![rabbitmq](https://img.shields.io/badge/-rabbitmq-222222?style=flat&logo=rabbitmq&logoColor=#FF6600)
+
+
+### my Spring FrameWork Demo
+ **[framework](https://github.com/misterhuhuhu/my-first-framework)**
